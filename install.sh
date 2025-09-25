@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
 
-# This file is part of the Raspberry Pi security camera project by Justin Cardoza and is distributed under the MIT license.
-# See the  original repository for more information: https://github.com/justincardoza/pi-security-camera-mk1
+# This file is part of the Raspberry Pi security camera project by Justin Cardoza.
+# It's distributed under a CC BY-NC-SA license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# See the original repository for more information: https://github.com/justincardoza/pi-security-camera-mk1
 
 # Set up directories including the one the install script is running from (https://stackoverflow.com/a/246128).
 scriptDirectory=$(cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd)

@@ -1,5 +1,6 @@
-# This file is part of the Raspberry Pi security camera project by Justin Cardoza and is distributed under the MIT license.
-# See the  original repository for more information: https://github.com/justincardoza/pi-security-camera-mk1
+# This file is part of the Raspberry Pi security camera project by Justin Cardoza.
+# It's distributed under a CC BY-NC-SA license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+# See the original repository for more information: https://github.com/justincardoza/pi-security-camera-mk1
 
 from threading import Event
 from signal import signal, SIGTERM, SIGINT
