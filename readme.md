@@ -27,7 +27,7 @@ To check that everything is working, you can go to `http://<CAMERA_ADDRESS>:8889
 
 ## Case
 
-The case for the camera is designed for 3D printing in several pieces. I'll put the slicer-ready files up on Printables as part of this project.
+The case for the camera is designed for 3D printing in several pieces. The OpenSCAD source for the 3D files is in this repository, but a more convenient option for printing is the [Printables page](https://www.printables.com/model/1424686-raspberry-pi-hq-security-camera-mk1) with downloads for all the parts as separate STL files.
 
 - **Internal frame**: The Pi and the camera module mount to this on opposite sides with M2.5 screws.
 - **Pi Spacer Shim**: The camera module side of the frame has spacers built in, but I couldn't reasonably do that on both sides. This piece holds the Pi circuit board a few millimeters off the frame so there's room for airflow behind the board.
