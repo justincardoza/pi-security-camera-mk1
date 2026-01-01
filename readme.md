@@ -4,6 +4,8 @@ This is the finished (if not totally polished) product of my first attempt at de
 
 ## Software Installation
 
+***Note***: I've released a [much more polished software package](https://github.com/justincardoza/aremac-pi) that uses Docker to keep everything nicely separated and adds a lot more flexibility, but I'm leaving this intact for reference and in case you really want to do it this way instead.
+
 Set up your Raspberry Pi with your desired network, hostname, and any other services/config. Make sure everything is up to date:
 
 ```sh
